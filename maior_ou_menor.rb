@@ -14,4 +14,6 @@ puts
 puts 
 puts "Primeira tentativa"
 puts "Digite o seu palpite : "
-chute = gets 
+chute = gets
+puts "Será que você acertou ?"
+chute.to_i == numero_secreto 
