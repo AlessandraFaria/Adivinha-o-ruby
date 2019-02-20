@@ -1,7 +1,4 @@
-# Adivinhação-ruby
-Ruby : Introdução a lógica de programação com jogos (Estudo-Alura)
+# Divination-ruby
+Ruby: Introduction to programming logic with games (Study-Alura)
 
-Jogo que escolhe um número aleatório, e desafia o usuário a adivinhá-lo. 
-O jogo permite a escolha do nível de dificuldade, 
-feedback constante sobre erros e acertos.
-diz se o número é maior ou menor do que o escolhido pelo computador
+Game that chooses a random number, and challenges the user to guess it. The game allows you to choose the level of difficulty, constant feedback on errors and hits. says whether the number is higher or lower than the number selected by the computer
